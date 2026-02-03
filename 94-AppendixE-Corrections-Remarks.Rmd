@@ -8,7 +8,7 @@ The word **broad** not **board** should be in the following sentence. "If we are
 
 ## Chapter 4
 
-The word **function** should be **factor** in the following sentence. "The `dplyr::glimpse()` function produces a list of all variables, their types (e.g., factor, double), and a few example values."
+The word **function** should be **factor** in the following sentence. "The `dplyr::glimpse()` function produces a list of all variables, their types (e.g., factor, double), and a few example values." Thank you to [@handsomeprince](https://github.com/handsomeprince) for reporting.
 
 ## Appendix A.3 {-}
 
